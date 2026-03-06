@@ -19,3 +19,13 @@ You are free to use, modify, and distribute this software for non-commercial, ac
 
 Commercial use, including integration into commercial products or services, requires prior written permission from the authors.
 For commercial licensing inquiries, please contact us at contact@mangoboost.io.
+
+## Third-Party Code and Notices
+
+This repository includes some source files derived from external open-source
+projects.
+
+- `nvidia/src/include/registration.h` is derived from the vLLM project
+  (`vllm-project/vllm`), licensed under Apache License 2.0.
+
+See `THIRD_PARTY_NOTICES.md` for details.
